@@ -19,7 +19,7 @@
     "morgan": "~1.9.0",
     "qiniu": "^7.2.1",
     "request-promise": "^4.2.4",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "node-dev": "^3.1.3"
